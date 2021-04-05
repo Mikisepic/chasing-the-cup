@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    text-align: center;
+    height: 40px;
+    border: 1px solid black;
+  }
+  
+  .buttons {
+    padding: 20px;
+  }
+  
+  button {
+    width: 50%;
+    background: #3bd4fa;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    transition: background 0.5s ease-in-out;
+  }
+  
+  button:hover {
+    background: #e71212;
+    cursor: pointer;
+  }
+  
+  button:focus {
+    outline: none;
+  }
