@@ -1,1 +1,3 @@
-# Tesonet Game but With a Twist
+# Chasing the Cup Minigame
+
+## ReadMe Update Coming Soon...
